@@ -1,10 +1,10 @@
 ﻿l_english:
  #just contries
- VLA_neutrality:0 "블라디보스토크 색수 사령부"
+ VLA_neutrality:0 "블라디보스토크 사령부"
  VLA_neutrality_DEF:0 "블라디보스토크 사령부"
  VLA:0 "블라디보스토크"
  VLA_DEF:0 "블라디보스토크"
- VLA_ADJ:0 "블라디보스토크"
+ VLA_ADJ:0 "블라디보스토크" 
  FER_neutrality:0 "극동 군관구"
  FER_neutrality_DEF:0 "극동 군관구"
  FER_neutrality_ADJ:0 "극동 군관구"
