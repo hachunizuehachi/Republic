@@ -1,0 +1,67 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_idea_leipzig_constitution"
+		texturefile = "gfx/interface/ideas/leipzig_constitution.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_suppression_for_kpd"
+		texturefile = "gfx/interface/ideas/suppression_for_kpd.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_threat_from_south"
+		texturefile = "gfx/interface/ideas/threat_from_south.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_threat_from_west"
+		texturefile = "gfx/interface/ideas/threat_from_west.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_threat_from_north"
+		texturefile = "gfx/interface/ideas/threat_from_north.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_threat_from_east"
+		texturefile = "gfx/interface/ideas/threat_from_east.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_political_polarization"
+		texturefile = "gfx/interface/ideas/political_polarization.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_economic_depression"
+		texturefile = "gfx/interface/ideas/economic_depression.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_revolution_propagation"
+		texturefile = "gfx/interface/ideas/revolution_propagation.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_sporadic_capitalist_resistance"
+		texturefile = "gfx/interface/ideas/sporadic_capitalist_resistance.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_Spartakusbund"
+		texturefile = "gfx/interface/ideas/Spartakusbund.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_large_scale_exile"
+		texturefile = "gfx/interface/ideas/large_scale_exile.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_french_interference"
+		texturefile = "gfx/interface/ideas/french_interference.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_building_reconstruction"
+		texturefile = "gfx/interface/ideas/building_reconstruction.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_proletarian_parliament"
+		texturefile = "gfx/interface/ideas/proletarian_parliament.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_failed_natioanl_policy"
+		texturefile = "gfx/interface/ideas/failed_natioanl_policy.dds"
+	}
+}

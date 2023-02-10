@@ -1,0 +1,16 @@
+characters={
+	KUB_Voroshilov={
+		name=KUB_Voroshilov
+		portraits={
+			civilian={
+				large="gfx/leaders/KUB/Voroshilov.png"
+			}
+		}
+		country_leader={
+			ideology=stratocracy
+			traits={  }
+			expire="1999.1.1.1"
+			id=-1
+		}
+	}
+}

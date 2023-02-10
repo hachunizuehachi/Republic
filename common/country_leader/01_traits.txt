@@ -1,0 +1,123 @@
+@tier1 = 30
+@tier2 = 20
+@tier3 = 10
+
+@experience_gain_low = 0.03
+@experience_gain_medium = 0.06
+@experience_gain_high = 0.08
+
+@chief_experience_gain_low = 0.20
+@chief_experience_gain_medium = 0.30
+@chief_experience_gain_high = 0.40
+
+###Todo remove commented advisor experience gains
+leader_traits = {
+	conservative_general = {
+		random = yes
+		political_power_factor = -0.1
+		stability_factor = 0.1
+	}
+	prime_minister_of_civilian = {
+		random = no
+		political_power_gain = 1
+	}
+	prince_of_east = {
+		random = no
+		stability_factor = 0.1
+		war_support_factor = 0.1
+		army_attack_factor = 0.05
+		army_defence_factor = 0.05
+	}
+	red_napoleon = {
+		random = no
+		supply_consumption_factor = -0.1
+		army_org_factor = 0.1
+	}
+	admiral_in_far_east = {
+		random = no
+		experience_gain_navy_factor	= 0.1
+		experience_gain_navy_unit_factor = 0.1
+	}
+	commander_of_vladivostok = {
+		random = no
+		command_power_gain_mult = 0.5
+	}
+	solid_revolutionary = {
+		random = yes
+		stability_factor = 0.05
+		political_power_factor = 0.1
+	}
+	experienced_agricultural_minister = {
+		random = yes
+		monthly_population = 0.1
+	}
+	new_prime_minister = {
+		random = yes
+		stability_factor = -0.10
+	}
+	labor_activist = {
+		random = yes
+		political_power_gain = 0.01
+	}
+	opportunist = {
+		random = no
+		political_power_gain = 0.5
+	}
+	officer_background = {
+		random = no
+		war_support_factor = 0.05
+	}
+	anti_russianist = {
+		random = no
+		army_core_defence_factor = 0.05
+		targeted_modifier = {
+			tag = SOV
+			attack_bonus_against = 0.05
+			defense_bonus_against = 0.05
+		}
+	}
+	ukraine_independence_fighter = {
+		random = no
+		war_support_weekly = 0.001
+		stability_weekly = 0.001
+	}
+	jurist = {
+		random = no
+		political_power_factor = 0.05
+	}
+	the_great_president = {
+		random = no
+		stability_weekly = 0.01
+		war_support_factor = 0.10
+		command_power_gain = 0.04
+		political_power_gain = 1.5
+	}
+	the_father_of_all_chinese = {
+		stability_factor = 0.2
+	}
+	frained = {
+		random = no
+		political_power_factor = -0.25
+	}
+	the_founder_of_tpp = {
+		drift_defence_factor = 0.3
+	}
+	small_general = {
+		random = no
+		weekly_casualties_war_support = 0.02
+	}
+	mother_of_german_revolution = {
+		random = no
+		political_power_factor = 0.10
+		political_advisor_cost_factor = -0.3
+	}
+	disorderly_administration = {
+		random = no
+		political_power_factor = -0.50
+	}
+	provisional_government = {
+		random = no
+		political_power_factor = -0.20
+		weekly_casualties_war_support = 0.01
+	}
+}

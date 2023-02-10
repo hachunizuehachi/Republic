@@ -1,0 +1,16 @@
+characters={
+	UKR_Kost_Levytsky={
+		name=UKR_Kost_Levytsky
+		portraits={
+			civilian={
+				large="gfx/leaders/UKR/UKR_Kost_Levytsky.png"
+			}
+		}
+		country_leader={
+			ideology=social_liberalism
+			traits={jurist anti_russianist ukraine_independence_fighter}
+			expire="1999.1.1.1"
+			id=-1
+		}
+	}
+}

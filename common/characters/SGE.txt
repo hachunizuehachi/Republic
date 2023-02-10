@@ -1,0 +1,16 @@
+characters={
+	SGE_Rosa={
+		name=SGE_Rosa
+		portraits={
+			civilian={
+				large="gfx/leaders/SGE/Rosa.dds"
+			}
+		}
+		country_leader={
+			ideology=left_communism
+			traits={ mother_of_german_revolution veteran_communist }
+			expire="1936.9.22"
+			id=-1
+		}
+	}
+}
